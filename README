@@ -1,0 +1,3 @@
+run_analysis.R contains all of the code necessary to download, process, clean,
+sort, and output the data. When finished running, it will output the file `cleaned_data.txt`
+which contains a data set containing average measurements for each subject and activity.
